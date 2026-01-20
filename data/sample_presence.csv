@@ -1,0 +1,10 @@
+rssi,rate,noise_floor,channel,label
+-52,-40,-95,6,present
+-51,-40,-94,6,present
+-53,-39,-96,6,present
+-80,-39,-90,11,absent
+-82,-36,-88,11,absent
+-81,-38,-89,11,absent
+-55,-40,-97,1,present
+-54,-40,-96,1,present
+-56,-39,-98,1,present
